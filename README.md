@@ -1,6 +1,6 @@
 
 # Nom du projet
-
+  Puissance 4
 ## Groupe projet
 - Étud. 1 : NOM, Prénom (No étudiant)
 - Étud. 2 : PUTRINO, Luca (22202829)
